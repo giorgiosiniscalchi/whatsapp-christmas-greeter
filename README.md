@@ -80,8 +80,8 @@ const CONFIG = {
 
 | Posizione | Descrizione | Screenshot |
 |-----------|-------------|------------|
-| `integrated` ⭐ | Integrato nella barra (come pulsante nativo) | Consigliata! |
-| `above-input` | Sopra la casella di testo | Sempre visibile |
+| `above-input` ⭐ | Sopra la casella di testo | Sempre visibile e consigliata |
+| `integrated`  | Integrato nella barra (come pulsante nativo) | Integrata |
 | `sidebar` | Lato sinistro dello schermo | Non invadente |
 | `bottom-right` | Angolo in basso a destra | Stile floating |
 | ... | Vedi documentazione completa | |
