@@ -24,7 +24,7 @@
     // 📍 Posizione del pulsante
     // Opzioni: "integrated", "above-input", "sidebar", "bottom-right", 
     //          "bottom-left", "top-right", "top-left"
-    position: "integrated",
+    position: "above-input",
     
     // 🚫 Lista contatti da escludere (opzionale)
     // Inserisci i nomi ESATTI come appaiono in WhatsApp
