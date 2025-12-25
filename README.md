@@ -4,6 +4,9 @@
 
 Un semplice script JavaScript che aggiunge un pulsante magico a WhatsApp Web per precompilare messaggi di auguri personalizzati con il nome di ogni contatto. Perfetto per Natale, compleanni, o qualsiasi occasione speciale! 
 
+<img width="503" height="164" alt="image" src="https://github.com/user-attachments/assets/a708d8e4-90bd-422a-8289-c221d9db360a" />
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Web-25D366?logo=whatsapp)](https://web.whatsapp.com)
 
