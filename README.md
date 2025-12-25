@@ -255,6 +255,6 @@ Se ti è stato utile, lascia una ⭐ su GitHub!
 
 ---
 
-**Made with ❤️ (and a bit of laziness) by [Your Name]**
+**Made with ❤️ (and a bit of laziness) by Giorgio Siniscalchi**
 
 🎅 *"Working smarter, not harder - even during holidays!"*
